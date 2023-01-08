@@ -1,0 +1,1 @@
+this script will help to integrate dialogflow bot with openai modal text-davinci-003
